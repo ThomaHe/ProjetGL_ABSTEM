@@ -1,4 +1,3 @@
-package ablm_abstem;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

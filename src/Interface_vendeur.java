@@ -1,5 +1,5 @@
 /**
- * Created by Bastien on 29/11/2014.
+ * Created by Elio on 29/11/2014.
  */
 import java.awt.EventQueue;
 
@@ -87,21 +87,6 @@ public class Interface_vendeur extends JFrame {
         total_prix=total;
         //	System.out.printf("num is %.2f\n", total_prix);
 
-    }
-    /**
-     * Launch the application.
-     */
-    public static void main(String[] args) {
-        EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                try {
-                    Interface_vendeur frame = new Interface_vendeur();
-                    frame.setVisible(true);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-        });
     }
 
     /**
