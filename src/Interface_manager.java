@@ -36,8 +36,7 @@ public class Interface_manager extends JFrame {
 
     public  Interface_manager()
     {
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setExtendedState(MAXIMIZED_BOTH);
+
         add(tbp_prinCat);
         setVisible(true);
 
