@@ -1,5 +1,3 @@
-package ablm_abstem;
-
 import javax.swing.*;
 	
 	
@@ -45,5 +43,4 @@ public class Manager extends Utilisateur {
 	  }
 
 	}
-
 }
